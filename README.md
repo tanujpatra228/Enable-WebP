@@ -1,4 +1,4 @@
-# enable-web
+# enable-webp
 Enable WebP support in WordPress. Control which user role can upload WebP images in your WordPress website.
 
  * Plugin Name:       Enable WebP
